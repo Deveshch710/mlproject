@@ -1,5 +1,5 @@
 #this is mainly for deployment purpose as we are using AWS Elastic Beanstalk
-# and we need to run the application using the application variable
+# and we need to run the application using the application variable/file name
 
 from flask import Flask, render_template, request
 import numpy as np
